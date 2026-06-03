@@ -45,8 +45,13 @@ body {
     height: 100%;
 }
 
-.logobx {
+/* .logobx {
     height: 55px;
+} */
+
+.logobx label {
+    font-weight: bold;
+    font-size: 24px;
 }
 
 /* .logo-img {
